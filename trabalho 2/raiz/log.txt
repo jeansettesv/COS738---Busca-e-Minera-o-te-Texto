@@ -1,0 +1,26 @@
+2023-07-01 09:58:34,879 - INFO - Iniciando leitura do arquivos de configuração...
+2023-07-01 09:58:34,883 - INFO - Arquivos de configuração lidos.
+
+2023-07-01 09:58:34,884 - INFO - Iniciando leitura do arquivo de dados...
+2023-07-01 09:58:35,007 - INFO - Arquivo de dados lidos.
+2023-07-01 09:58:35,008 - INFO - Total de linhas lidas: 244521.
+
+
+
+2023-07-01 09:58:35,009 - INFO - Iniciando processamento de consultas...
+2023-07-01 09:58:35,757 - INFO - Consultas Processadas. Tempo médio de processamento de consultas: 0.7473089694976807 segundos
+
+2023-07-01 09:58:35,759 - INFO - Iniciando processamento dos documentos...
+2023-07-01 10:00:16,678 - INFO - Documentos processados. Tempo médio de processamento de documentos: 100.91863679885864 segundos
+
+2023-07-01 10:00:16,680 - INFO - Iniciando processamento de palavras...
+2023-07-01 10:00:27,556 - INFO - Palavras processadas. Tempo médio de processamento de palavras: 10.874093532562256 segundos
+
+
+
+2023-07-01 10:00:27,559 - INFO - Iniciando salvamento...
+2023-07-01 10:00:28,777 - INFO - Dados salvos
+
+
+
+2023-07-01 10:00:28,779 - INFO - Programa finalizado
